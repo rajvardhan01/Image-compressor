@@ -1,0 +1,13 @@
+https://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/
+https://mycolor.space/?hex=%23FFFFFF&sub=1
+https://labs.madisoft.it/javascript-image-compression-and-resizing/
+https://stackoverflow.com/questions/14672746/how-to-compress-an-image-via-javascript-in-the-browser
+https://fengyuanchen.github.io/compressorjs/
+https://demo.wangyulue.com/image-conversion/
+
+----------------------------------------------
+Before uploading an image, go to "OPTIONS" and adjust the maxWidth and Quality to your needs, then upload the image and see your resized image in Output.
+
+Before uploading an image, go to "OPTIONS" and set the "maxWidth" and "Quality" to your specifications, then upload the image and view the resized image in "Output".
+
+      
